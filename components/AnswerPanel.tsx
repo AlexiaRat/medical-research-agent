@@ -135,7 +135,7 @@ function renderInline(text: string): React.ReactNode[] {
     if (seg.kind === "cite") {
       const n = seg.value;
       return (
-        
+          < a
           key={`c-${i}`}
           href={`#citation-${n}`}
           className="citation-marker"
