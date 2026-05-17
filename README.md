@@ -4,6 +4,12 @@ An autonomous research agent that decomposes a clinical question, searches PubMe
 
 Built with Next.js 14, the Anthropic Claude API, and Voyage AI embeddings. Streams every step of the agent's reasoning to the UI so the user can follow what it is doing.
 
+## Screenshots
+
+![Landing page](docs/screenshots/landing.png)
+![Agent trace in action](docs/screenshots/trace.png)
+![Synthesis with citations](docs/screenshots/synthesis.png)
+
 ## What it does
 
 You ask a clinical question in plain English. For example:
