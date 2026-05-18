@@ -6,9 +6,9 @@ Built with Next.js 14, the Anthropic Claude API, and Voyage AI embeddings. Strea
 
 ## Screenshots
 
-![Landing page](docs/screenshots/landing.png)
-![Agent trace in action](docs/screenshots/trace.png)
-![Synthesis with citations](docs/screenshots/synthesis.png)
+![Landing page](docs/screenshots/landing.jpeg)
+![Agent trace in action](docs/screenshots/trace.jpeg)
+![Synthesis with citations](docs/screenshots/synthesis.jpeg)
 
 ## What it does
 
